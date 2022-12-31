@@ -1,0 +1,2 @@
+# mapapovinnosti
+Mapa EG povinností
